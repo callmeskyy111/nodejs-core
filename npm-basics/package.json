@@ -1,0 +1,21 @@
+{
+  "name": "npm-basics",
+  "version": "1.0.0",
+  "description": "Learning About NPM",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Soumadip Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.10"
+  }
+}
