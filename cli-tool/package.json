@@ -1,0 +1,16 @@
+{
+  "name": "skyys-cli-tool",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "skyys-cli-tool": "./index.js"
+  },
+  "keywords": [],
+  "author": "Soumadip Banerjee",
+  "license": "ISC",
+  "description": ""
+}
