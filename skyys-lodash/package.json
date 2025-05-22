@@ -1,0 +1,16 @@
+{
+  "name": "skyys-lodash",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Soumadip Banerjee",
+  "license": "ISC",
+  "description": "My custom lodash-type npm package",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
